@@ -1,2 +1,3 @@
 # ApolloMatic-Test
-# ApolloMatic-Web
+
+Simple application developed to use in a presentation on my team's open source developer tool, ApolloMatic. 
